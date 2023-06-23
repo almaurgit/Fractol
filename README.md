@@ -17,12 +17,13 @@ make fclean && make opti
 
 Press H to turn off the live display of the parameters and improve performances.
 
-Les fractales Mandelbrot et Julia en interaction :
-![Mandelbrot and Julia relation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkxMHppb29uaHFscDIxb21oemVjNHc5NjNyNmpxcGRwMWdlbXJ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qU25ZRfwKIYMu9VrUv/giphy.gif)
-
 Zoom sur la fractale de Mandelbrot :
-<video width="largeur" height="hauteur" controls>
-  <source src="(https://www.youtube.com/watch?v=gjHr9Lj5jdM)" type="video/mp4">
-  Mandelbrot Zoom
-</video>
+![Mandelbrot Zoom](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkxMHppb29uaHFscDIxb21oemVjNHc5NjNyNmpxcGRwMWdlbXJ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qU25ZRfwKIYMu9VrUv/giphy.gif)
+
+
+Les fractales Mandelbrot et Julia en interaction :
+
+![Mandelbrot and Julia relation]
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU1OHhnZGoybGxuMWR1Z3kxcHhpbW4zOWVnaGRmNWlzMGl5ZzQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D28OeEnWuhjj0P0wVa/giphy.gif)
+  
 
