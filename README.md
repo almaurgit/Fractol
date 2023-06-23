@@ -18,10 +18,7 @@ make fclean && make opti
 Press H to turn off the live display of the parameters and improve performances.
 
 Les fractales Mandelbrot et Julia en interaction :
-<video width="largeur" height="hauteur" controls>
-  <source src="(https://www.youtube.com/watch?v=egDgMYTrh1w)" type="video/mp4">
-  Mandelbrot and Julia relation
-</video>
+![Mandelbrot and Julia relation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkxMHppb29uaHFscDIxb21oemVjNHc5NjNyNmpxcGRwMWdlbXJ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qU25ZRfwKIYMu9VrUv/giphy.gif)
 
 Zoom sur la fractale de Mandelbrot :
 <video width="largeur" height="hauteur" controls>
