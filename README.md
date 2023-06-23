@@ -18,12 +18,13 @@ make fclean && make opti
 Press H to turn off the live display of the parameters and improve performances.
 
 Zoom sur la fractale de Mandelbrot :
+
 ![Mandelbrot Zoom](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkxMHppb29uaHFscDIxb21oemVjNHc5NjNyNmpxcGRwMWdlbXJ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qU25ZRfwKIYMu9VrUv/giphy.gif)
 
 
 Les fractales Mandelbrot et Julia en interaction :
 
-![Mandelbrot and Julia relation]
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU1OHhnZGoybGxuMWR1Z3kxcHhpbW4zOWVnaGRmNWlzMGl5ZzQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D28OeEnWuhjj0P0wVa/giphy.gif)
+![Mandelbrot and Julia relation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU1OHhnZGoybGxuMWR1Z3kxcHhpbW4zOWVnaGRmNWlzMGl5ZzQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D28OeEnWuhjj0P0wVa/giphy.gif)
+
   
 
